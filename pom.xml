@@ -64,7 +64,7 @@ limitations under the License.
     <commons-lang.version>2.6</commons-lang.version>
     <commons-text.version>1.9</commons-text.version>
     <curator.version>5.1.0</curator.version>
-    <derby.version>10.14.1.0</derby.version>
+    <derby.version>10.17.1.0</derby.version>
     <dropwizard-metrics.version>4.1.18</dropwizard-metrics.version>
     <fasterxml.jackson.version>2.13.2</fasterxml.jackson.version>
     <fasterxml.jackson.databind.version>2.13.2.1</fasterxml.jackson.databind.version>
@@ -93,7 +93,7 @@ limitations under the License.
     <mapdb.version>0.9.9</mapdb.version>
     <mina.version>2.1.5</mina.version>
     <mockito.version>1.9.0</mockito.version>
-    <module.name />
+    <module.name/>
     <mvn-antrun-plugin.version>1.8</mvn-antrun-plugin.version>
     <mvn-assembly-plugin.version>3.1.0</mvn-assembly-plugin.version>
     <mvn-build-helper-plugin>3.0.0</mvn-build-helper-plugin>
