@@ -74,7 +74,7 @@ limitations under the License.
     <guava.version>18.0</guava.version>
     <guava-old.version>11.0.2</guava-old.version>
     <hadoop.version>2.10.1</hadoop.version>
-    <hbase.version>1.7.1</hbase.version>
+    <hbase.version>2.5.8-hadoop3</hbase.version>
     <hbase2.version>2.4.11</hbase2.version>
     <hive.version>1.2.2</hive.version>
     <httpcore.version>4.4.15</httpcore.version>
@@ -93,7 +93,7 @@ limitations under the License.
     <mapdb.version>0.9.9</mapdb.version>
     <mina.version>2.1.5</mina.version>
     <mockito.version>1.9.0</mockito.version>
-    <module.name />
+    <module.name/>
     <mvn-antrun-plugin.version>1.8</mvn-antrun-plugin.version>
     <mvn-assembly-plugin.version>3.1.0</mvn-assembly-plugin.version>
     <mvn-build-helper-plugin>3.0.0</mvn-build-helper-plugin>
