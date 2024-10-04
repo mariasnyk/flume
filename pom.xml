@@ -60,7 +60,7 @@ limitations under the License.
     <commons-collections.version>3.2.2</commons-collections.version>
     <commons-compress.version>1.21</commons-compress.version>
     <commons-dbcp.version>1.4</commons-dbcp.version>
-    <commons-io.version>2.11.0</commons-io.version>
+    <commons-io.version>2.14.0</commons-io.version>
     <commons-lang.version>2.6</commons-lang.version>
     <commons-text.version>1.9</commons-text.version>
     <curator.version>5.1.0</curator.version>
@@ -93,7 +93,7 @@ limitations under the License.
     <mapdb.version>0.9.9</mapdb.version>
     <mina.version>2.1.5</mina.version>
     <mockito.version>1.9.0</mockito.version>
-    <module.name />
+    <module.name/>
     <mvn-antrun-plugin.version>1.8</mvn-antrun-plugin.version>
     <mvn-assembly-plugin.version>3.1.0</mvn-assembly-plugin.version>
     <mvn-build-helper-plugin>3.0.0</mvn-build-helper-plugin>
